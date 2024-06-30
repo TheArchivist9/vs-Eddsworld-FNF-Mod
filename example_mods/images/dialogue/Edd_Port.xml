@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Edd.png">
+<SubTexture name="Edd 10000" x="0" y="0" width="326" height="396" frameX="0" frameY="0" frameWidth="347" frameHeight="396" />
+<SubTexture name="Edd 20000" x="326" y="0" width="347" height="396" frameX="0" frameY="0" frameWidth="347" frameHeight="396" />
+<SubTexture name="Edd 30000" x="673" y="0" width="326" height="396" frameX="0" frameY="0" frameWidth="347" frameHeight="396" />
+<SubTexture name="Edd 40000" x="0" y="396" width="347" height="396" frameX="0" frameY="0" frameWidth="347" frameHeight="396" />
+<SubTexture name="Edd 50000" x="347" y="396" width="326" height="396" frameX="0" frameY="0" frameWidth="347" frameHeight="396" />
+<SubTexture name="Edd 60000" x="673" y="396" width="326" height="396" frameX="0" frameY="0" frameWidth="347" frameHeight="396" />
+</TextureAtlas>

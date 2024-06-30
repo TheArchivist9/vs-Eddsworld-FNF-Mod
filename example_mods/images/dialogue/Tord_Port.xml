@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tord.png">
+<SubTexture name="Tord 10000" x="244" y="0" width="244" height="420" frameX="0" frameY="0" frameWidth="251" frameHeight="438" />
+<SubTexture name="Tord 20000" x="488" y="0" width="251" height="416" frameX="0" frameY="0" frameWidth="251" frameHeight="438" />
+<SubTexture name="Tord 30000" x="739" y="0" width="251" height="416" frameX="0" frameY="0" frameWidth="251" frameHeight="438" />
+<SubTexture name="Tord 40000" x="0" y="436" width="251" height="416" frameX="0" frameY="0" frameWidth="251" frameHeight="438" />
+<SubTexture name="Tord 50000" x="251" y="436" width="251" height="416" frameX="0" frameY="0" frameWidth="251" frameHeight="438" />
+<SubTexture name="Tord 60000" x="0" y="0" width="244" height="436" frameX="0" frameY="0" frameWidth="251" frameHeight="438" />
+</TextureAtlas>

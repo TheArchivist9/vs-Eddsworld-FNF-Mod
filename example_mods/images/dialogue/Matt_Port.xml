@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Matt.png">
+<SubTexture name="Matt 10000" x="664" y="0" width="332" height="422" frameX="0" frameY="-1" frameWidth="332" frameHeight="423" />
+<SubTexture name="Matt 20000" x="0" y="0" width="332" height="423" frameX="0" frameY="0" frameWidth="332" frameHeight="423" />
+<SubTexture name="Matt 30000" x="332" y="0" width="332" height="423" frameX="0" frameY="0" frameWidth="332" frameHeight="423" />
+</TextureAtlas>

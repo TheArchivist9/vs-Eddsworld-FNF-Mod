@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "stageTord",
+		"player1": "bf",
+		"player2": "tord",
+		"player3": null,
+		"events": [
+			[
+				2400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4200,
+				[
+					[
+						"Play Animation",
+						"cough",
+						""
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Play Animation",
+						"cough",
+						""
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Play Animation",
+						"cough",
+						""
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Play Animation",
+						"cough",
+						""
+					]
+				]
+			],
+			[
+				40200,
+				[
+					[
+						"Play Animation",
+						"cough",
+						""
+					]
+				]
+			],
+			[
+				66600,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"tord"
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"tord"
+					]
+				]
+			],
+			[
+				95400,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"tord"
+					]
+				]
+			],
+			[
+				109950,
+				[
+					[
+						"Play Animation",
+						"cough",
+						"tord"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Nerves"
+	}
+}

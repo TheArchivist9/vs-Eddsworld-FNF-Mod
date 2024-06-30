@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-26
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "garcellotired Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				3,
+				-24
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "garcellotired Sing Note UP"
+		},
+		{
+			"offsets": [
+				6,
+				-47
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "garcellotired Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				15,
+				-47
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "garcellotired Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				16,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "garcellotired idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "cough",
+			"indices": [],
+			"name": "garcellotired cough"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tord_assets",
+	"position": [
+		770,
+		-90
+	],
+	"healthicon": "tord",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

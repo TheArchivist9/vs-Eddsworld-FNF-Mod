@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tom.png">
+<SubTexture name="Tom 10000" x="0" y="0" width="258" height="411" frameX="0" frameY="0" frameWidth="259" frameHeight="411" />
+<SubTexture name="Tom 20000" x="258" y="0" width="258" height="411" frameX="0" frameY="0" frameWidth="259" frameHeight="411" />
+<SubTexture name="Tom 30000" x="516" y="0" width="258" height="411" frameX="0" frameY="0" frameWidth="259" frameHeight="411" />
+<SubTexture name="Tom 40000" x="774" y="0" width="258" height="411" frameX="0" frameY="0" frameWidth="259" frameHeight="411" />
+<SubTexture name="Tom 50000" x="0" y="411" width="258" height="411" frameX="0" frameY="0" frameWidth="259" frameHeight="411" />
+<SubTexture name="Tom 60000" x="258" y="411" width="258" height="411" frameX="0" frameY="0" frameWidth="259" frameHeight="411" />
+<SubTexture name="Tom 70000" x="516" y="411" width="258" height="411" frameX="0" frameY="0" frameWidth="259" frameHeight="411" />
+</TextureAtlas>
